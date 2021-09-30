@@ -1,0 +1,9 @@
+{
+  "name": "basicJS",
+  "version": "1.0.0",
+  "description": "training JavaScript",
+  "main": "index.js",
+  "author": "glaudistonneto",
+  "license": "MIT",
+  "private": false
+}
